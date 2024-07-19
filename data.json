@@ -1,0 +1,973 @@
+[{
+    continent: "Europe",
+    country: "Albania",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "Algeria",
+    restaurant: "10-15%",
+    driver: "No tip",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Europe",
+    country: "Andorra",
+    restaurant: "5-10%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Africa ",
+    country: "Angola",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "\u2014"
+}, {
+    continent: "North America",
+    country: "Antigua and Barbuda",
+    restaurant: "10-15%",
+    driver: "10.00%",
+    hotel: "$2.00"
+}, {
+    continent: "South America",
+    country: "Argentina",
+    restaurant: "10-15%",
+    driver: "No tip",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Europe",
+    country: "Armenia",
+    restaurant: "10-20%",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Australia",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Austria",
+    restaurant: "5-15%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Azerbaijan",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "North America",
+    country: "Bahamas",
+    restaurant: "Service included ",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Bahrain",
+    restaurant: "10-15%",
+    driver: "10.00%",
+    hotel: "$2-$5"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Bangladesh",
+    restaurant: "2-10%",
+    driver: "Round up",
+    hotel: "$0.20-$0.30"
+}, {
+    continent: "North America",
+    country: "Barbados",
+    restaurant: "Service included ",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "Europe",
+    country: "Belarus",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Belgium",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "North America",
+    country: "Belize",
+    restaurant: "15.00%",
+    driver: "No tip",
+    hotel: "$2-$5"
+}, {
+    continent: "Africa ",
+    country: "Benin",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Bhutan",
+    restaurant: "Service included ",
+    driver: "\u2014",
+    hotel: "No tip"
+}, {
+    continent: "South America",
+    country: "Bolivia",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Europe",
+    country: "Bosnia and Herzegovina",
+    restaurant: "10.00%",
+    driver: "8-20%",
+    hotel: "$1-$3"
+}, {
+    continent: "Africa ",
+    country: "Botswana",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$0.50"
+}, {
+    continent: "South America",
+    country: "Brazil",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Brunei",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Bulgaria",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Cambodia",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "Cameroon",
+    restaurant: "10-15%",
+    driver: "\u2014",
+    hotel: "$1-$2"
+}, {
+    continent: "North America",
+    country: "Canada",
+    restaurant: "15-20%",
+    driver: "10.00%",
+    hotel: "$2-$5"
+}, {
+    continent: "Africa ",
+    country: "Cape Verde",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "South America",
+    country: "Chile",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "China",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "South America",
+    country: "Colombia",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "Congo (Republic of the)",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "North America",
+    country: "Costa Rica",
+    restaurant: "No tip ",
+    driver: "Round up",
+    hotel: "$2.00"
+}, {
+    continent: "Africa ",
+    country: "Cote d\u2019Ivoire (Ivory Coast)",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "\u2014"
+}, {
+    continent: "Europe",
+    country: "Croatia",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "$2-$2.50"
+}, {
+    continent: "North America",
+    country: "Cuba",
+    restaurant: "10-15%",
+    driver: "\u2014",
+    hotel: "$1-$5"
+}, {
+    continent: "Europe",
+    country: "Cyprus",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "$1-$3"
+}, {
+    continent: "Europe",
+    country: "Czech Republic",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2.00"
+}, {
+    continent: "Europe",
+    country: "Denmark",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Africa ",
+    country: "Djibouti",
+    restaurant: "No tip ",
+    driver: "\u2014",
+    hotel: "No tip"
+}, {
+    continent: "North America",
+    country: "Dominica",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "North America",
+    country: "Dominican Republic",
+    restaurant: "10-20%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "South America",
+    country: "Ecuador",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Africa ",
+    country: "Egypt",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$0.25-$0.50"
+}, {
+    continent: "North America",
+    country: "El Salvador",
+    restaurant: "Service included ",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Europe",
+    country: "England",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "Africa ",
+    country: "Equatorial Guinea",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Africa ",
+    country: "Eritrea",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Europe",
+    country: "Estonia",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "Africa ",
+    country: "Ethiopia",
+    restaurant: "5-10%",
+    driver: "\u2014",
+    hotel: "$0.50"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Fiji",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Finland",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$2-$5"
+}, {
+    continent: "Europe",
+    country: "France",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "Gabon",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "\u2014"
+}, {
+    continent: "Europe",
+    country: "Georgia",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$0.50-$1.50"
+}, {
+    continent: "Europe",
+    country: "Germany",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "$3-$5"
+}, {
+    continent: "Africa ",
+    country: "Ghana",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "$0.10-$0.20"
+}, {
+    continent: "Europe",
+    country: "Greece",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "North America",
+    country: "Grenada",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "North America",
+    country: "Guatemala",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "South America",
+    country: "Guyana",
+    restaurant: "10-15%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "North America",
+    country: "Honduras",
+    restaurant: "10-15%",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "Europe",
+    country: "Hungary",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$0.50-$1.50"
+}, {
+    continent: "Europe",
+    country: "Iceland",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "India",
+    restaurant: "7-10%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Indonesia",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Iran",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "Europe",
+    country: "Ireland (Northern)",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "Europe",
+    country: "Ireland (Republic of)",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Israel",
+    restaurant: "12.00%",
+    driver: "No tip",
+    hotel: "$1.50-$3"
+}, {
+    continent: "Europe",
+    country: "Italy",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$5"
+}, {
+    continent: "North America",
+    country: "Jamaica",
+    restaurant: "10-18%",
+    driver: "10-15%",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Japan",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Jordan",
+    restaurant: "5-10%",
+    driver: "Round up",
+    hotel: "$3-$7"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Kazakhstan",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "\u2014"
+}, {
+    continent: "Africa ",
+    country: "Kenya",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "$1-$5"
+}, {
+    continent: "Europe",
+    country: "Kosovo",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Kuwait",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$0.90-$1.80"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Laos",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Latvia",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Lebanon",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Europe",
+    country: "Liechtenstein",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Lithuania",
+    restaurant: "5-15%",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Luxembourg",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1.50-$2"
+}, {
+    continent: "Europe",
+    country: "Macedonia (North)",
+    restaurant: "10-15%",
+    driver: "No tip",
+    hotel: "$0.50"
+}, {
+    continent: "Africa ",
+    country: "Madagascar",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Malaysia",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Maldives",
+    restaurant: "Service included ",
+    driver: "\u2014",
+    hotel: "$1-$2"
+}, {
+    continent: "Europe",
+    country: "Malta",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$3"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Marshall Islands",
+    restaurant: "5-10%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Africa ",
+    country: "Mauritania",
+    restaurant: "12-15%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Africa ",
+    country: "Mauritius",
+    restaurant: "10-15%",
+    driver: "\u2014",
+    hotel: "$2.00"
+}, {
+    continent: "North America",
+    country: "Mexico",
+    restaurant: "15.00%",
+    driver: "No tip",
+    hotel: "$1-$5"
+}, {
+    continent: "Europe",
+    country: "Moldova",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Monaco",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Mongolia",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "$0.30-$0.60"
+}, {
+    continent: "Europe",
+    country: "Montenegro",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2.00"
+}, {
+    continent: "Africa ",
+    country: "Morocco",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Myanmar",
+    restaurant: "10.00%",
+    driver: "5-10% ",
+    hotel: "$1-$3"
+}, {
+    continent: "Africa ",
+    country: "Namibia",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Nepal",
+    restaurant: "Service included ",
+    driver: "Round up",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Netherlands",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "New Zealand",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "North America",
+    country: "Nicaragua",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "Nigeria",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Norway",
+    restaurant: "10-20%",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Oman",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "$2.50"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Pakistan",
+    restaurant: "Service included ",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Palestine",
+    restaurant: "10.00%",
+    driver: "15-20%",
+    hotel: "$4.00"
+}, {
+    continent: "North America",
+    country: "Panama",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "South America",
+    country: "Paraguay",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2-$5"
+}, {
+    continent: "South America",
+    country: "Peru",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Philippines",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Poland",
+    restaurant: "10-15%",
+    driver: "No tip",
+    hotel: "$2.00"
+}, {
+    continent: "Europe",
+    country: "Portugal",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Qatar",
+    restaurant: "10-15%",
+    driver: "\u2014",
+    hotel: "$2-$3"
+}, {
+    continent: "Europe",
+    country: "Romania",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "Europe",
+    country: "Russia",
+    restaurant: "10-15%",
+    driver: "10.00%",
+    hotel: "$1-$3"
+}, {
+    continent: "North America",
+    country: "Saint Kitts and Nevis",
+    restaurant: "Service included ",
+    driver: "10.00%",
+    hotel: "$2-$3"
+}, {
+    continent: "North America",
+    country: "Saint Lucia",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "North America",
+    country: "Saint Vincent and the Grenadines",
+    restaurant: "10-15%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Samoa",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "San Marino",
+    restaurant: "5-15%",
+    driver: "Round up",
+    hotel: "$1-$5"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Saudi Arabia",
+    restaurant: "10-15%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "Europe",
+    country: "Scotland",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "Africa ",
+    country: "Senegal",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2.00"
+}, {
+    continent: "Europe",
+    country: "Serbia",
+    restaurant: "10-20%",
+    driver: "Round up",
+    hotel: "$1-$5"
+}, {
+    continent: "Africa ",
+    country: "Seychelles",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Singapore",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Slovakia",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Europe",
+    country: "Slovenia",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "South Africa",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "South Korea",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Spain",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$2-$5"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Sri Lanka",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Africa ",
+    country: "Swaziland (Eswatini)",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Europe",
+    country: "Sweden",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "No tip"
+}, {
+    continent: "Europe",
+    country: "Switzerland",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Taiwan",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Tajikistan",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "Africa ",
+    country: "Tanzania",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Thailand",
+    restaurant: "Service included ",
+    driver: "Round up",
+    hotel: "$0.50-$1"
+}, {
+    continent: "Africa ",
+    country: "The Gambia",
+    restaurant: "7.50%",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "North America",
+    country: "Trinidad and Tobago",
+    restaurant: "Service included ",
+    driver: "No tip",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "Tunisia",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Turkey",
+    restaurant: "10.00%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Turkmenistan",
+    restaurant: "5-10%",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Tuvalu",
+    restaurant: "5-10%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Africa ",
+    country: "Uganda",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "\u2014"
+}, {
+    continent: "Europe",
+    country: "Ukraine",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "United Arab Emirates",
+    restaurant: "10-15%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Europe",
+    country: "United Kingdom",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "North America",
+    country: "United States of America",
+    restaurant: "20.00%",
+    driver: "15.00%",
+    hotel: "$2-5"
+}, {
+    continent: "South America",
+    country: "Uruguay",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Middle East & Central Asia",
+    country: "Uzbekistan",
+    restaurant: "Service included ",
+    driver: "\u2014",
+    hotel: "\u2014"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Vanuatu",
+    restaurant: "No tip ",
+    driver: "No tip",
+    hotel: "No tip"
+}, {
+    continent: "South America",
+    country: "Venezuela",
+    restaurant: "5-10%",
+    driver: "No tip",
+    hotel: "$1.00"
+}, {
+    continent: "Rest of Asia and Oceania",
+    country: "Vietnam",
+    restaurant: "5-10%",
+    driver: "Round up",
+    hotel: "$1-$2"
+}, {
+    continent: "Europe",
+    country: "Wales ",
+    restaurant: "10.00%",
+    driver: "No tip",
+    hotel: "$2-$3"
+}, {
+    continent: "Africa ",
+    country: "Zambia",
+    restaurant: "10.00%",
+    driver: "10.00%",
+    hotel: "$1.00"
+}, {
+    continent: "Africa ",
+    country: "Zimbabwe",
+    restaurant: "10.00%",
+    driver: "\u2014",
+    hotel: "$1-$5"
+}]
